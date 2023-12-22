@@ -1,0 +1,5 @@
+﻿  GraphInteraction.cpp
+D:\Users\class\source\repos\DSLR5-master\LR 5\GraphInteraction.cpp(108,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Users\class\source\repos\DSLR5-master\LR 5\GraphInteraction.cpp(160,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Users\class\source\repos\DSLR5-master\LR 5\GraphInteraction.cpp(189,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LR 5.vcxproj -> D:\Users\class\source\repos\DSLR5-master\x64\Debug\LR 5.exe

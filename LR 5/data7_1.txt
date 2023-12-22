@@ -1,0 +1,1 @@
+The program creates a tree according to your TreeNode structure. It then calls the deleteNodesOnLevel function to delete vertices at the given level. In the example above, vertices at level 2 are removed.

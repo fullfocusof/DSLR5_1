@@ -1,0 +1,1 @@
+Develop a function that determines the maximum height of the tree (the tree should be displayed on the screen from right to left with an offset).
